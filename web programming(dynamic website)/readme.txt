@@ -1,3 +1,6 @@
+In this project i used only html,css and php.
+
+
 Site link --> http://izmirevent.live
 For test --> email : test@test  password:test
 Or you can create your account
